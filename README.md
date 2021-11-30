@@ -85,7 +85,8 @@ public interface Abiturent {
     }
 }
 
-
+ 
+ 
 import java.util.Scanner;
 
 public class StudentZaochnik extends Student  {
@@ -104,3 +105,4 @@ public class StudentZaochnik extends Student  {
     }
 
 }
+
